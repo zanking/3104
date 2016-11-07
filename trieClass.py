@@ -1,7 +1,9 @@
-#LastName:
-#FirstName:
-#Email:
-#Comments:
+# Your name as it is on the moodle site : Zanqing Feng
+# Your email: zafe5975@colorado.edu
+# Your student ID: 102077587
+# On my honor as a University of Colorado student, I acknowledge that
+# I did not receive any unauthorized help for this assignment.
+# I understand that systems like MOSS can easily detect code plagiarism.
 
 from __future__ import print_function
 import sys
